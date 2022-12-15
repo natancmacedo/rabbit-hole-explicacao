@@ -25,7 +25,7 @@ $k$ será nossa variável de iteração, representa qual buraco estamos olhando
 
 ### O pior caso é descrito por: ###
 
-$B_c$ sendo $c$ par ($B_c \in B_p $)
+$B_c$ sendo $c$ par ( $B_c \in B_p$ )
 
 
 ### Iteração 1:  ###
